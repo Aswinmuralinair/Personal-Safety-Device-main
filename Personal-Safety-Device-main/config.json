@@ -1,0 +1,14 @@
+{
+    "device_id":        "KAVACH-001",
+    "serial_port":      "/dev/ttyUSB2",
+    "baud_rate":        115200,
+    "sos_button_pin":   17,
+
+    "police_number":    "100",
+    "guardian_number":  "+91XXXXXXXXXX",
+    "medical_number":   "+91YYYYYYYYYY",
+
+    "server_url":       "http://your-server-ip:8080/api/alerts",
+    "server_public_url":"http://your-server-ip:8080/uploads/",
+    "evidence_dir":     "evidence"
+}
