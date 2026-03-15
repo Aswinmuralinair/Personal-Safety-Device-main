@@ -1,0 +1,20 @@
+# Databases
+*.db
+
+# Config with secrets
+config.json
+
+# Runtime evidence / uploads
+evidence_files/
+uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Temp / lock files
+.lgd-*

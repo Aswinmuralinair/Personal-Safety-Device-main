@@ -1,0 +1,5 @@
+SQLAlchemy>=1.4
+requests>=2.25
+pyserial>=3.5
+RPi.GPIO
+smbus2
