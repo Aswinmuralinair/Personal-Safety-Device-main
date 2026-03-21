@@ -1,6 +1,6 @@
 {
   "device_id": "KAVACH-001",
-  "serial_port": "/dev/ttyUSB2",
+  "serial_port": "/dev/ttyUSB3",
   "baud_rate": 115200,
   "sos_button_pin": 23,
   "police_number": "100",
